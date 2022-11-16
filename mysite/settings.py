@@ -26,8 +26,6 @@ SECRET_KEY = 'django-insecure-6zcwwa_(+15pz&zc-&c^k0to=nujh5^=7h1-3h#*6zyz9xwbi)
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'nizam.pythonanywhere.com',
-    'https://nizam.pythonanywhere.com/',
     '*'
 ]
 
